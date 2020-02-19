@@ -1,0 +1,49 @@
+header {
+	width: 50%;
+	height: 50px;
+	border:8px double yellow;
+	border-radius: 10px;
+	margin:20px auto;
+	padding: 30px;
+	font-size: 40px;
+
+}
+
+
+/*nav{
+	width:500px;
+	height:380px;
+	border:2px solid blue;*/
+
+/*}*/
+
+#about_image{
+	margin-left: 200px;
+}
+ 
+
+
+.article1 div{
+	width:31%;
+	height:90%;
+	border:2px solid pink;
+	padding:5px;
+	display: inline-block;
+
+}
+
+#gallery_img1>img{
+	width: 100%;
+	height:100%;
+}
+
+#gallery_img2>img{
+	
+	width: 100%;
+	height:100%;
+}
+#gallery_img3>img{
+	
+	width: 100%;
+	height:100%;
+}
